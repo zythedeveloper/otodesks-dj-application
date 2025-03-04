@@ -33,6 +33,9 @@ Otodecks is developed in C++ using the following libraries:
 - **JUCE**: A C++ framework for developing cross-platform audio applications.
 - **Standard Template Library (STL)**: Used for data structures and algorithms.
 
+## Screenshot
+<img src="https://drive.google.com/uc?export=view&id=14vffyhG-XQxuI9oEaR_TfImIsYxQQfvF" alt="Otodecks Screenshot" width="600"/>
+
 ## How to Run the Application
 1. Ensure that JUCE and a compatible C++ compiler (e.g., GCC, Clang, or MSVC) are installed.
 2. Open the project in JUCE’s Projucer or an IDE that supports JUCE.
